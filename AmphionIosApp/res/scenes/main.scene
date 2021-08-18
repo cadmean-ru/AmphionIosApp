@@ -1,0 +1,54 @@
+children:
+  - children: []
+    components:
+      - name: github.com/cadmean-ru/amphion/engine/builtin.ShapeView
+        state:
+          fillColor: "#2c69a8"
+          strokeColor: "#000"
+          strokeWeight: 0
+          pType: 3
+    id: 1
+    name: rect
+    transform:
+      pivot:
+        x: 0
+        "y": 0
+        z: 0
+      position:
+        x: 0
+        "y": 0
+        z: 0
+      rotation:
+        x: 0
+        "y": 0
+        z: 0
+      size:
+        x: 100
+        "y": 100
+        z: 0
+components:
+  - name: github.com/cadmean-ru/amphion/engine/builtin.ShapeView
+    state:
+      fillColor: "#696969"
+      strokeColor: "#000"
+      strokeWeight: 0
+      pType: 3
+id: 0
+name: Main scene
+transform:
+  pivot:
+    x: 0
+    "y": 0
+    z: 0
+  position:
+    x: 0
+    "y": 0
+    z: 0
+  rotation:
+    x: 0
+    "y": 0
+    z: 0
+  size:
+    x: 1
+    "y": 1
+    z: 1

@@ -6,14 +6,13 @@
 //
 
 import UIKit
+import AmphionIos
 
-class ViewController: UIViewController {
+class ViewController: AmphionViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
 }
 

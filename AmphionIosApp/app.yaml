@@ -1,0 +1,6 @@
+name: "Amphion test"
+author: "cadmean"
+companyDomain: "cadmean.ru"
+frontend: "ios"
+debug: true
+mainScene: "main"

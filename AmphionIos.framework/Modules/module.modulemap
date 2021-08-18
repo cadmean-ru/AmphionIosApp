@@ -1,0 +1,11 @@
+framework module AmphionIos {
+  umbrella header "AmphionIos.h"
+
+  export *
+  module * { export * }
+}
+
+module AmphionIos.Swift {
+    header "AmphionIos-Swift.h"
+    requires objc
+}
