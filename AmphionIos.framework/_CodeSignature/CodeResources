@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AmphionIos-Swift.h</key>
 		<data>
-		8Xm7DUhjGOrgOMzg6G6sHYkwXQY=
+		TA7U3WPoxQ14+AMsyK4g/+Hnuig=
 		</data>
 		<key>Headers/AmphionIos.h</key>
 		<data>
@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		g8jnhp7pJI9jZvigy8Th8tJop08=
+		plI9gyngeh+WgM0lVgHDy9B5Exc=
 		</data>
-		<key>Modules/AmphionIos.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/AmphionIos.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		UsiVZNo1AT3BZFG34E3JmluBnwc=
+		4BIjK1bz+nyWJ1ZBhUS/X/RfC24=
 		</data>
-		<key>Modules/AmphionIos.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/AmphionIos.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		UsiVZNo1AT3BZFG34E3JmluBnwc=
+		4BIjK1bz+nyWJ1ZBhUS/X/RfC24=
 		</data>
-		<key>Modules/AmphionIos.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/AmphionIos.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		rUD/WH/fbF2BKjMMy0w6sVTeqSQ=
+		TJAMjhY3wfend8MPj9ULr2ZZBQ4=
 		</data>
-		<key>Modules/AmphionIos.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/AmphionIos.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		VSshJdU08ql9EzrhXsEF7FCrNTE=
+		FixneG5ImQmocJI9RBrpDQkrE8M=
 		</data>
-		<key>Modules/AmphionIos.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/AmphionIos.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		rUD/WH/fbF2BKjMMy0w6sVTeqSQ=
+		TJAMjhY3wfend8MPj9ULr2ZZBQ4=
 		</data>
-		<key>Modules/AmphionIos.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/AmphionIos.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		VSshJdU08ql9EzrhXsEF7FCrNTE=
+		FixneG5ImQmocJI9RBrpDQkrE8M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>default.metallib</key>
 		<data>
-		BmlVbggKpKef0v1dfqdFLga+Nis=
+		Ivhdu/HaHyNp+MNq393QcuioUVk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,7 +55,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TBj0QV/BMLZx9VzrVCMnPr6MMvM1AgByGif8HKhksGg=
+			PWKBXHzNec689wyRAz4rIeVL0R4dqlJIH8sUwOYcIBY=
 			</data>
 		</dict>
 		<key>Headers/AmphionIos.h</key>
@@ -65,46 +65,46 @@
 			uemRAxaAuw2KOu0YO4yLxo0DuAO8AQ4GELEszMA1Hco=
 			</data>
 		</dict>
-		<key>Modules/AmphionIos.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<key>Modules/AmphionIos.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+TK+6KR5Qj4Dxx8a1MzeKkf5jhLkPMdninXiTUpCXo0=
+			+pAAmMnvn5Wf8X5TUE7zEWqKCuNnZa9Fk9Fi6S/plYc=
 			</data>
 		</dict>
-		<key>Modules/AmphionIos.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<key>Modules/AmphionIos.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+TK+6KR5Qj4Dxx8a1MzeKkf5jhLkPMdninXiTUpCXo0=
+			+pAAmMnvn5Wf8X5TUE7zEWqKCuNnZa9Fk9Fi6S/plYc=
 			</data>
 		</dict>
-		<key>Modules/AmphionIos.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<key>Modules/AmphionIos.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mcNRNXgSfFlQygh0ZibJpuBNWYyxZW5QP3uoNYN/KoQ=
+			uAVL3cbygF5U+UOTfWKbunRbc1LSoqsWnFDXoRTXfSg=
 			</data>
 		</dict>
-		<key>Modules/AmphionIos.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<key>Modules/AmphionIos.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x9eBXigGnR5gkxGj5WWUzdxF/aAFmXUv2DecwQR9oOA=
+			SxcNc6gsxHVBidCRiztMBmyUmtUt4spZMNugbp5x4fI=
 			</data>
 		</dict>
-		<key>Modules/AmphionIos.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/AmphionIos.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mcNRNXgSfFlQygh0ZibJpuBNWYyxZW5QP3uoNYN/KoQ=
+			uAVL3cbygF5U+UOTfWKbunRbc1LSoqsWnFDXoRTXfSg=
 			</data>
 		</dict>
-		<key>Modules/AmphionIos.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/AmphionIos.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x9eBXigGnR5gkxGj5WWUzdxF/aAFmXUv2DecwQR9oOA=
+			SxcNc6gsxHVBidCRiztMBmyUmtUt4spZMNugbp5x4fI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -118,7 +118,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jJlDRKUQZ3Nt5RoO0oqquE/8psCIlGaKzyrSr9xqD8A=
+			i0XG4hxRKuXZGM/nUnx82//NXHD1z9PzbG+GpFo2SwU=
 			</data>
 		</dict>
 	</dict>

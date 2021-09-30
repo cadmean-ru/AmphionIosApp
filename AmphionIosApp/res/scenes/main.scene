@@ -1,40 +1,45 @@
 children:
   - children: []
-    components:
-      - name: github.com/cadmean-ru/amphion/engine/builtin.ShapeView
-        state:
-          fillColor: "#2c69a8"
-          strokeColor: "#000"
-          strokeWeight: 0
-          pType: 3
     id: 1
-    name: rect
+    name: main text
     transform:
       pivot:
-        x: 0
-        "y": 0
+        x: 0.5
+        "y": 0.5
         z: 0
       position:
-        x: 0
-        "y": 0
+        x: -2147483646
+        "y": -2147483646
         z: 0
       rotation:
         x: 0
         "y": 0
         z: 0
       size:
-        x: 100
-        "y": 100
+        x: 150
+        "y": 30
         z: 0
-components:
-  - name: github.com/cadmean-ru/amphion/engine/builtin.ShapeView
-    state:
-      fillColor: "#696969"
-      strokeColor: "#000"
-      strokeWeight: 0
-      pType: 3
+  - children: []
+    components:
+      - name: github.com/cadmean-ru/amphion/engine/builtin.TextView
+        state:
+          textColor:
+            r: 0
+            g: 0
+            b: 255
+            a: 255
+          font: ""
+          fontSize: 20
+          fontWeight: 0
+          text: "Hello, Amphion!"
+      - name: github.com/cadmean-ru/amphion/engine/builtin.RectBoundary
+        state: {}
+      - name: github.com/cadmean-ru/amphion/engine/builtin.OnClickListener
+        state:
+          onClick: main.navigateOnClick
+components: []
 id: 0
-name: Main scene
+name: Test scene
 transform:
   pivot:
     x: 0
